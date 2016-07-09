@@ -1,4 +1,4 @@
-package hello.model;
+package seasky.spring.boot.model;
 
 import com.google.gson.Gson;
 import org.apache.log4j.Logger;

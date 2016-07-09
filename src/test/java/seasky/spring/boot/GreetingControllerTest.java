@@ -1,7 +1,9 @@
-package hello;
+package seasky.spring.boot;
 
-import hello.model.FruitModel;
 import org.springframework.util.Assert;
+
+import seasky.spring.boot.controller.GreetingController;
+import seasky.spring.boot.model.FruitModel;
 
 import javax.validation.constraints.AssertTrue;
 

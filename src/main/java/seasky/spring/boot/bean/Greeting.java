@@ -1,4 +1,4 @@
-package hello;
+package seasky.spring.boot.bean;
 
 public class Greeting {
 
